@@ -1,3 +1,4 @@
 # amazonCloneO
 This is my first Git Repository
-Author - Alankrit Aggarwal
+<br>
+<h1>Author - Alankrit Aggarwal</h1>
